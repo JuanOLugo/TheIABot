@@ -21,4 +21,6 @@ para hacer interactivos a tus bots con este codigo que he creado
   <li><b>Una vez lo hayas actualizado ya puedes utilizar tu generador de imagenes por IA</b></li>
 </ol>
 
+<p><B>RECUERDA QUE EL ARCHIVO EVENTS VA EN UNA CARPETA LLAMADA EVENTOS Y LOS ARCHIVOS IA Y HELP VAN EN UNA CARPETA LLAMADA COMANDOS</B></p>
+
 
